@@ -7,7 +7,7 @@
 	     Website: http://www.conorwalsh.net
 	     GitHub:  https://github.com/conorwalsh
 	  
-	  Version 2.5
+	  Version 1
 	  
 	  First created: 1st April 2015
 	  Last modified: 2nd April 2015
